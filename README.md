@@ -58,6 +58,4 @@ import pandas as pd
 ts = TimeSeries(key=API_key)
 data, meta_data = ts.get_monthly('MSFT')
 ```
-### License
 
-This project is for educational purposes only. Please check the Alpha Vantage API terms for commercial use.
